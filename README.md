@@ -20,3 +20,10 @@ AZ Watch wants to establish more personalized and targeted campaigns to reduce s
 
 - Apply a standard clustering method to the numerical features X.
 - Analyze the average values by cluster_id for these numerical features and store them in analysis, rounding values to the nearest whole number.
+
+## Extra Task after talk to Haritha 04.07.for 43min
+"Looks good" for the final_project_bernhard_wagner_V0.ipynb
+- extra ideas added: Use confusion matrix, just look at accuracy and f1-score to choose advanced model, if perdormance not better find out reasons why
+- extra idea added: Do feature engineering, perform cross-validations over again
+- extra idea added: For clustering use alternative methods as well and compare
+- ! Ask for Maria's Feedback thereafter
