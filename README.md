@@ -26,4 +26,10 @@ AZ Watch wants to establish more personalized and targeted campaigns to reduce s
 - extra ideas added: Use confusion matrix, just look at accuracy and f1-score to choose advanced model, if perdormance not better find out reasons why
 - extra idea added: Do feature engineering, perform cross-validations over again
 - extra idea added: For clustering use alternative methods as well and compare
-- ! Ask for Maria's Feedback thereafter
+- ask for Maria's Feedback thereafter
+
+## Final upload of the project in python notebook & presentation 14.07.2024
+- added the notebook with comments and explanation for each step
+- added a presentation created with canva.com template
+- 
+
